@@ -8,7 +8,7 @@ Screenshot of the Calculator
 
 # Demo
 
-![Demo of the Calculator](firstbasiccalculator.netlify.app)
+[Demo of the Calculator](https://firstbasiccalculator.netlify.app)
 
 # Run the project
 
