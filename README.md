@@ -5,7 +5,7 @@ This is the project of Calculator which have basic funcion. Code was written in 
 
 # Demo
 
-[Demo of the Clock](https://firstbasiccalculator.netlify.app/)
+[Demo of the Calculator](https://firstbasiccalculator.netlify.app/)
 
 # Run the project
 
